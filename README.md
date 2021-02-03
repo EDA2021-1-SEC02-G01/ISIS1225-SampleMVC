@@ -36,5 +36,3 @@ t.angel@uniandes.edu.co
 Daniel Osorio
 d.osorioc2@uniandes.edu.co
 202022996
-
-# HOAOLAJAFOIEJ
